@@ -1,2 +1,2 @@
-# TemplateBasedModelling
-Template based protein modelling
+# TemplateFreeModelling
+Template free protein modelling
